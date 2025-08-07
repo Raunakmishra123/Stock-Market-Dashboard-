@@ -1,0 +1,5 @@
+export const mockStocks = [
+  { id: '1', ticker: 'RELIANCE', companyName: 'Reliance Industries', sector: 'Energy', currentPrice: 2450.50, previousClose: 2420.00, dayChange: 30.50, dayChangePercent: 1.26, marketCap: 1650000, volume: 5000000, rating: 'Buy', watchlisted: false, chartData: [2420, 2430, 2440, 2450.5] },
+  { id: '2', ticker: 'TCS', companyName: 'Tata Consultancy Services', sector: 'IT', currentPrice: 3200.00, previousClose: 3250.00, dayChange: -50.00, dayChangePercent: -1.54, marketCap: 1170000, volume: 2000000, rating: 'Hold', watchlisted: false, chartData: [3250, 3230, 3210, 3200] },
+  { id: '3', ticker: 'INFY', companyName: 'Infosys Limited', sector: 'IT', currentPrice: 1420.75, previousClose: 1400.00, dayChange: 20.75, dayChangePercent: 1.48, marketCap: 590000, volume: 3500000, rating: 'Buy', watchlisted: true, chartData: [1400, 1410, 1415, 1420.75] }
+];
