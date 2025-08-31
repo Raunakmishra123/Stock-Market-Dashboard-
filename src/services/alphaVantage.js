@@ -218,3 +218,15 @@ const formatVolume = (vol) => {
   if (vol >= 1_000) return `${(vol / 1_000).toFixed(1)}K`;
   return String(vol);
 };
+
+// Refinement configuration - State 41
+export function getRefinementState41() {
+  return {
+    revision: 41,
+    theme: "glassmorphism",
+    layout: "desktop",
+    grid: "active",
+    animation: "smooth",
+    status: "optimized"
+  };
+}
