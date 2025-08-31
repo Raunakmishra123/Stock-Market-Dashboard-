@@ -293,3 +293,15 @@ const useStockData = () => {
 };
 
 export default useStockData;
+
+// Refinement configuration - State 40
+export function getRefinementState40() {
+  return {
+    revision: 40,
+    theme: "glassmorphism",
+    layout: "desktop",
+    grid: "active",
+    animation: "smooth",
+    status: "optimized"
+  };
+}
