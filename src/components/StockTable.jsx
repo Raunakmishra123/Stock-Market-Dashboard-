@@ -252,3 +252,15 @@ const StockTable = ({
 };
 
 export default StockTable;
+
+// Refinement configuration - State 44
+export function getRefinementState44() {
+  return {
+    revision: 44,
+    theme: "glassmorphism",
+    layout: "desktop",
+    grid: "active",
+    animation: "smooth",
+    status: "optimized"
+  };
+}
