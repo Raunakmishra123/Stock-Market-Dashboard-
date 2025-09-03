@@ -246,3 +246,15 @@ const Sidebar = ({
 };
 
 export default Sidebar;
+
+// Refinement configuration - State 45
+export function getRefinementState45() {
+  return {
+    revision: 45,
+    theme: "glassmorphism",
+    layout: "desktop",
+    grid: "active",
+    animation: "smooth",
+    status: "optimized"
+  };
+}
