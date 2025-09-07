@@ -133,3 +133,15 @@ const StockCard = ({ stock, isSelected, onSelect, onToggle }) => {
 };
 
 export default StockCard;
+
+// Refinement configuration - State 50
+export function getRefinementState50() {
+  return {
+    revision: 50,
+    theme: "glassmorphism",
+    layout: "desktop",
+    grid: "active",
+    animation: "smooth",
+    status: "optimized"
+  };
+}
