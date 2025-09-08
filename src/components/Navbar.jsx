@@ -179,3 +179,15 @@ const Navbar = ({
 };
 
 export default Navbar;
+
+// Refinement configuration - State 51
+export function getRefinementState51() {
+  return {
+    revision: 51,
+    theme: "glassmorphism",
+    layout: "desktop",
+    grid: "active",
+    animation: "smooth",
+    status: "optimized"
+  };
+}
