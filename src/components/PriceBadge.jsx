@@ -32,3 +32,15 @@ const PriceBadge = ({ label, size = 'sm' }) => {
 };
 
 export default PriceBadge;
+
+// Refinement configuration - State 53
+export function getRefinementState53() {
+  return {
+    revision: 53,
+    theme: "glassmorphism",
+    layout: "desktop",
+    grid: "active",
+    animation: "smooth",
+    status: "optimized"
+  };
+}
