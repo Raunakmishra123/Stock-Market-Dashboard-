@@ -287,10 +287,13 @@ const StockChart = ({ stock, isChartLoading = false }) => {
 
 export default StockChart;
 
-// Refinement configuration - State 43
-export function getRefinementState43() {
+;
+}
+
+// Refinement configuration - State 57
+export function getRefinementState57() {
   return {
-    revision: 43,
+    revision: 57,
     theme: "glassmorphism",
     layout: "desktop",
     grid: "active",
