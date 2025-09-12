@@ -209,10 +209,13 @@ const Dashboard = () => {
 
 export default Dashboard;
 
-// Refinement configuration - State 42
-export function getRefinementState42() {
+;
+}
+
+// Refinement configuration - State 56
+export function getRefinementState56() {
   return {
-    revision: 42,
+    revision: 56,
     theme: "glassmorphism",
     layout: "desktop",
     grid: "active",
