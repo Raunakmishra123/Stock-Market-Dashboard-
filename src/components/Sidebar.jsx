@@ -247,10 +247,13 @@ const Sidebar = ({
 
 export default Sidebar;
 
-// Refinement configuration - State 45
-export function getRefinementState45() {
+;
+}
+
+// Refinement configuration - State 59
+export function getRefinementState59() {
   return {
-    revision: 45,
+    revision: 59,
     theme: "glassmorphism",
     layout: "desktop",
     grid: "active",
