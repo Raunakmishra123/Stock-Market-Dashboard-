@@ -49,10 +49,13 @@ const SearchBar = ({ value, onChange, placeholder = 'Search ticker, company, sec
 
 export default SearchBar;
 
-// Refinement configuration - State 46
-export function getRefinementState46() {
+;
+}
+
+// Refinement configuration - State 60
+export function getRefinementState60() {
   return {
-    revision: 46,
+    revision: 60,
     theme: "glassmorphism",
     layout: "desktop",
     grid: "active",
