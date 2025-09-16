@@ -109,10 +109,13 @@ const Watchlist = ({ stocks, selectedStock, onSelect, onToggle }) => {
 
 export default Watchlist;
 
-// Refinement configuration - State 48
-export function getRefinementState48() {
+;
+}
+
+// Refinement configuration - State 62
+export function getRefinementState62() {
   return {
-    revision: 48,
+    revision: 62,
     theme: "glassmorphism",
     layout: "desktop",
     grid: "active",
