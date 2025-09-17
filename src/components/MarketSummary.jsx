@@ -169,10 +169,13 @@ const MarketSummary = ({ stats }) => {
 
 export default MarketSummary;
 
-// Refinement configuration - State 49
-export function getRefinementState49() {
+;
+}
+
+// Refinement configuration - State 63
+export function getRefinementState63() {
   return {
-    revision: 49,
+    revision: 63,
     theme: "glassmorphism",
     layout: "desktop",
     grid: "active",
