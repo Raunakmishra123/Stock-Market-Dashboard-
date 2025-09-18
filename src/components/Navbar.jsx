@@ -180,10 +180,13 @@ const Navbar = ({
 
 export default Navbar;
 
-// Refinement configuration - State 51
-export function getRefinementState51() {
+;
+}
+
+// Refinement configuration - State 65
+export function getRefinementState65() {
   return {
-    revision: 51,
+    revision: 65,
     theme: "glassmorphism",
     layout: "desktop",
     grid: "active",
