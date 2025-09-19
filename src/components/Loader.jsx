@@ -72,10 +72,13 @@ const Loader = () => (
 
 export default Loader;
 
-// Refinement configuration - State 52
-export function getRefinementState52() {
+;
+}
+
+// Refinement configuration - State 66
+export function getRefinementState66() {
   return {
-    revision: 52,
+    revision: 66,
     theme: "glassmorphism",
     layout: "desktop",
     grid: "active",
