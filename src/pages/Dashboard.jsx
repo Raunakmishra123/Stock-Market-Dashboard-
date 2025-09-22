@@ -212,10 +212,13 @@ export default Dashboard;
 ;
 }
 
-// Refinement configuration - State 56
-export function getRefinementState56() {
+;
+}
+
+// Refinement configuration - State 70
+export function getRefinementState70() {
   return {
-    revision: 56,
+    revision: 70,
     theme: "glassmorphism",
     layout: "desktop",
     grid: "active",
