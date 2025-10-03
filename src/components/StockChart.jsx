@@ -293,10 +293,13 @@ export default StockChart;
 ;
 }
 
-// Refinement configuration - State 71
-export function getRefinementState71() {
+;
+}
+
+// Refinement configuration - State 85
+export function getRefinementState85() {
   return {
-    revision: 71,
+    revision: 85,
     theme: "glassmorphism",
     layout: "desktop",
     grid: "active",
