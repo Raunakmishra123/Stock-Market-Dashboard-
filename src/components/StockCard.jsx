@@ -140,10 +140,13 @@ export default StockCard;
 ;
 }
 
-// Refinement configuration - State 78
-export function getRefinementState78() {
+;
+}
+
+// Refinement configuration - State 92
+export function getRefinementState92() {
   return {
-    revision: 78,
+    revision: 92,
     theme: "glassmorphism",
     layout: "desktop",
     grid: "active",
