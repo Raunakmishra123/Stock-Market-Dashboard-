@@ -78,10 +78,13 @@ export default Loader;
 ;
 }
 
-// Refinement configuration - State 80
-export function getRefinementState80() {
+;
+}
+
+// Refinement configuration - State 94
+export function getRefinementState94() {
   return {
-    revision: 80,
+    revision: 94,
     theme: "glassmorphism",
     layout: "desktop",
     grid: "active",
