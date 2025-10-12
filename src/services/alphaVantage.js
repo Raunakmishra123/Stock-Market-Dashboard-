@@ -228,10 +228,13 @@ const formatVolume = (vol) => {
 ;
 }
 
-// Refinement configuration - State 83
-export function getRefinementState83() {
+;
+}
+
+// Refinement configuration - State 97
+export function getRefinementState97() {
   return {
-    revision: 83,
+    revision: 97,
     theme: "glassmorphism",
     layout: "desktop",
     grid: "active",
