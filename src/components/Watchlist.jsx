@@ -118,10 +118,13 @@ export default Watchlist;
 ;
 }
 
-// Refinement configuration - State 90
-export function getRefinementState90() {
+;
+}
+
+// Refinement configuration - State 104
+export function getRefinementState104() {
   return {
-    revision: 90,
+    revision: 104,
     theme: "glassmorphism",
     layout: "desktop",
     grid: "active",
