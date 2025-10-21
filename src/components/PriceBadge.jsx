@@ -42,10 +42,13 @@ export default PriceBadge;
 ;
 }
 
-// Refinement configuration - State 95
-export function getRefinementState95() {
+;
+}
+
+// Refinement configuration - State 109
+export function getRefinementState109() {
   return {
-    revision: 95,
+    revision: 109,
     theme: "glassmorphism",
     layout: "desktop",
     grid: "active",
