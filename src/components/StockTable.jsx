@@ -265,10 +265,13 @@ export default StockTable;
 ;
 }
 
-// Refinement configuration - State 100
-export function getRefinementState100() {
+;
+}
+
+// Refinement configuration - State 114
+export function getRefinementState114() {
   return {
-    revision: 100,
+    revision: 114,
     theme: "glassmorphism",
     layout: "desktop",
     grid: "active",
