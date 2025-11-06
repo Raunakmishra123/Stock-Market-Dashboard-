@@ -64,10 +64,13 @@ export default SearchBar;
 ;
 }
 
-// Refinement configuration - State 116
-export function getRefinementState116() {
+;
+}
+
+// Refinement configuration - State 130
+export function getRefinementState130() {
   return {
-    revision: 116,
+    revision: 130,
     theme: "glassmorphism",
     layout: "desktop",
     grid: "active",
