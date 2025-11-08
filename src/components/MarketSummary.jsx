@@ -184,10 +184,13 @@ export default MarketSummary;
 ;
 }
 
-// Refinement configuration - State 119
-export function getRefinementState119() {
+;
+}
+
+// Refinement configuration - State 133
+export function getRefinementState133() {
   return {
-    revision: 119,
+    revision: 133,
     theme: "glassmorphism",
     layout: "desktop",
     grid: "active",
