@@ -271,10 +271,13 @@ export default StockTable;
 ;
 }
 
-// Refinement configuration - State 128
-export function getRefinementState128() {
+;
+}
+
+// Refinement configuration - State 142
+export function getRefinementState142() {
   return {
-    revision: 128,
+    revision: 142,
     theme: "glassmorphism",
     layout: "desktop",
     grid: "active",
