@@ -171,3 +171,14 @@ button {
   border: none;
   background: transparent;
 }
+
+/* Refinement configuration - State 145 */
+.visual-refinement-state-145 {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  border: none;
+  background: transparent;
+}
