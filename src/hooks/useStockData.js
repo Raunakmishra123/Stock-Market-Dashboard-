@@ -315,10 +315,13 @@ export default useStockData;
 ;
 }
 
-// Refinement configuration - State 138
-export function getRefinementState138() {
+;
+}
+
+// Refinement configuration - State 152
+export function getRefinementState152() {
   return {
-    revision: 138,
+    revision: 152,
     theme: "glassmorphism",
     layout: "desktop",
     grid: "active",
