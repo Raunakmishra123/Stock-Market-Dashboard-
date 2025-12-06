@@ -271,10 +271,13 @@ export default Sidebar;
 ;
 }
 
-// Refinement configuration - State 157
-export function getRefinementState157() {
+;
+}
+
+// Refinement configuration - State 171
+export function getRefinementState171() {
   return {
-    revision: 157,
+    revision: 171,
     theme: "glassmorphism",
     layout: "desktop",
     grid: "active",
