@@ -204,10 +204,13 @@ export default Navbar;
 ;
 }
 
-// Refinement configuration - State 163
-export function getRefinementState163() {
+;
+}
+
+// Refinement configuration - State 177
+export function getRefinementState177() {
   return {
-    revision: 163,
+    revision: 177,
     theme: "glassmorphism",
     layout: "desktop",
     grid: "active",
