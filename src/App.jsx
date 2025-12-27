@@ -1,13 +1,29 @@
 import React from 'react';
-import Dashboard from './pages/Dashboard.jsx';
-import './App.css';
+import { Toaster } from 'react-hot-toast';
+import Dashboard from './pages/Dashboard';
 
-function App() {
+/**
+ * App — root component with global toast provider
+ */
+const App = () => {
   return (
-    <div className="app-container">
+    <>
       <Dashboard />
-    </div>
+      <Toaster
+        position="bottom-right"
+        toastOptions={{
+          duration: 3000,
+          style: {
+            background: '#1E293B',
+            color: '#F8FAFC',
+            border: '1px solid #334155',
+            borderRadius: '12px',
+            fontSize: '14px',
+          },
+        }}
+      />
+    </>
   );
-}
+};
 
 export default App;
