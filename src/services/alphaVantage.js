@@ -10,7 +10,7 @@
  *  - Graceful fallback to mock data if rate-limited or API unavailable
  */
 
-const API_KEY = '72B7YRUSURIN0N3U';
+const API_KEY = '72B7YRUSURIN0N3D';// use your api key here 
 const BASE_URL = 'https://www.alphavantage.co/query';
 
 // Map our tickers to Alpha Vantage BSE symbols
